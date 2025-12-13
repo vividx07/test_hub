@@ -1,4 +1,17 @@
 {
-  "games": [],
-  "last_updated": "2025-12-13T13:09:33.397Z"
+  "games": [
+    {
+      "name": "test game",
+      "scripts": [
+        {
+          "name": "nexora hub grrr",
+          "script": "print(\"uwu\")",
+          "has_key_system": false,
+          "note": "daddy",
+          "version": "1"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2025-12-13T17:15:00.148Z"
 }
