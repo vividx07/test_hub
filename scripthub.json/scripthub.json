@@ -21,11 +21,63 @@
           "has_key_system": false,
           "note": "ScriptBlox  - 3210 views",
           "version": "1.0.0"
+        },
+        {
+          "name": "Infinite Fish",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPD-Sword-Fishing-Infinite-Fish-71670\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox  - 700 views",
+          "version": "1.0.0"
         }
       ],
       "description": "Roblox game:  [⚔️ UPD] Sword Fishing",
       "icon_url": "https://tr.rbxcdn.com/180DAY-b32a15285561a359464497a84986e9f1/480/270/Image/Png/noFilter"
+    },
+    {
+      "name": "[🎄] 99 Nights in the Forest 🔦",
+      "scripts": [
+        {
+          "name": "BEST KEYLESS SCRIPT!",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-KEYLESS-Best-Script-for-99-Nights-in-the-Forest-53093\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox  - 1782095 views",
+          "version": "1.0.0"
+        }
+      ],
+      "description": "Roblox game: [🎄] 99 Nights in the Forest 🔦",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-643b9b9285f3bd9b63cf392db12a4d87/480/270/Image/Png/noFilter",
+      "gameId": "79546208627805"
+    },
+    {
+      "name": "Fish It! 🐟",
+      "scripts": [
+        {
+          "name": "KrakenWare Keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Fish-It!-KrakenWare-Keyless-67442\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox  - 1257782 views",
+          "version": "1.0.0"
+        }
+      ],
+      "description": "Roblox game: Fish It! 🐟",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-3cb2f1c6ee4fb84a2bd9e363e51e4c6d/480/270/Image/Png/noFilter",
+      "gameId": "121864768012064"
+    },
+    {
+      "name": "The Forge [BETA]",
+      "scripts": [
+        {
+          "name": "Chiyo",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/The-Forge-STRESS-TEST-Chiyo-60832\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox  - 6503 views",
+          "version": "1.0.0"
+        }
+      ],
+      "description": "Roblox game: The Forge [BETA]",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-3eacda24071591b5157449a853e8b24c/480/270/Image/Png/noFilter",
+      "gameId": "76558904092080"
     }
   ],
-  "last_updated": "2025-12-14T09:26:28.715Z"
+  "last_updated": "2025-12-14T10:32:29.054Z"
 }
