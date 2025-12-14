@@ -11,7 +11,21 @@
           "version": "1"
         }
       ]
+    },
+    {
+      "name": " [⚔️ UPD] Sword Fishing",
+      "scripts": [
+        {
+          "name": "Instant Inf Fish",
+          "script": "https://scriptblox.com/api/script/raw/692d6df23f362f81e6c0aea9",
+          "has_key_system": false,
+          "note": "ScriptBlox  - 3210 views",
+          "version": "1.0.0"
+        }
+      ],
+      "description": "Roblox game:  [⚔️ UPD] Sword Fishing",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-b32a15285561a359464497a84986e9f1/480/270/Image/Png/noFilter"
     }
   ],
-  "last_updated": "2025-12-13T17:15:00.148Z"
+  "last_updated": "2025-12-14T09:26:28.715Z"
 }
